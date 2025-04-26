@@ -82,7 +82,7 @@ Follow these steps to set up the project locally:
 
 The project is deployed on Vercel, a platform known for its fast and easy deployment of web applications.
 
-Live URL: 
+Live URL: [www.robofriends.com](https://robo-friends.vercel.app/)
 
 ## License
  This Project is Licensed under the [MIT](https://github.com/HilaryOkonkwo/RoboFriends/blob/main/LICENSE)
